@@ -11,3 +11,5 @@ The website is basically a one page landing page, where you can jump between sec
 Link to website served on Netlify: https://main--timely-crepe-f2de5c.netlify.app/#about
 
 Link to Github Repo: https://github.com/JosefGvirt/portfolio-using-css-js-html
+
+<img src="./Website screenshot.png" alt="homepage of website">
