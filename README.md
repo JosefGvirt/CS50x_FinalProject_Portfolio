@@ -27,6 +27,6 @@ contains all the media of the website, including project screenshots, profile pi
 
 Link to website served on Netlify: https://main--timely-crepe-f2de5c.netlify.app/#about
 
-Link to Github Repo: https://github.com/JosefGvirt/portfolio-using-css-js-html
+Link to Github Repo: https://github.com/JosefGvirt/CS50x_FinalProject_Portfolio
 
 <img src="./Website screenshot.png" alt="homepage of website">
